@@ -14,12 +14,6 @@ O objetivo é apresentar meu perfil, habilidades e projetos de forma organizada 
 
 ---
 
-## 🖼️ Prévia
-![Prévia do Projeto](screenshot.png)  
-*(Adicione uma captura de tela do site aqui)*
-
----
-
 ## 🚀 Como visualizar
 1. Clone este repositório:
    ```bash
